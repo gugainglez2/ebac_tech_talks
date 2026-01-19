@@ -1,4 +1,4 @@
-3718
+3725
 33C:\EBAC\M22\ebac_talks\src\images134132525640833845 1
 79C:\EBAC\M22\ebac_talks\node_modules\source-map-js\lib\source-map-generator.d.ts134132522263089666 0
 57C:\EBAC\M22\ebac_talks\node_modules\color-convert\LICENSE134132320375103282 0
@@ -13,7 +13,7 @@
 61C:\EBAC\M22\ebac_talks\node_modules\dotenv\lib\env-options.js134132320386364155 0
 69C:\EBAC\M22\ebac_talks\node_modules\caniuse-lite\data\features\let.js134132320500426216 0
 82C:\EBAC\M22\ebac_talks\node_modules\@parcel\core\lib\requests\ValidationRequest.js134132320470521872 0
-35C:\EBAC\M22\ebac_talks\package.json134132528424367638 0
+35C:\EBAC\M22\ebac_talks\package.json134132668580123635 0
 71C:\EBAC\M22\ebac_talks\node_modules\update-browserslist-db\package.json134132320381391879 0
 49C:\EBAC\M22\ebac_talks\node_modules\source-map-js134132522263138404 1
 79C:\EBAC\M22\ebac_talks\node_modules\caniuse-lite\data\features\web-bluetooth.js134132320520759905 0
@@ -33,7 +33,7 @@
 59C:\EBAC\M22\ebac_talks\node_modules\@parcel\optimizer-image134132320395329070 1
 82C:\EBAC\M22\ebac_talks\node_modules\caniuse-lite\data\features\css-first-letter.js134132320472380799 0
 80C:\EBAC\M22\ebac_talks\node_modules\@swc\helpers\_\_read_only_error\package.json134132320482705096 0
-27C:\EBAC\M22\ebac_talks\dist134132666549818410 1
+27C:\EBAC\M22\ebac_talks\dist134132669174816273 1
 72C:\EBAC\M22\ebac_talks\node_modules\@parcel\package-manager\src\index.js134132320403434742 0
 65C:\EBAC\M22\ebac_talks\node_modules\@swc\helpers\esm\_to_array.js134132320467103826 0
 44C:\EBAC\M22\ebac_talks\node_modules\msgpackr134132320439159861 1
@@ -424,6 +424,7 @@
 81C:\EBAC\M22\ebac_talks\node_modules\@parcel\transformer-raw\src\RawTransformer.js134132320387383565 0
 53C:\EBAC\M22\ebac_talks\node_modules\caniuse-lite\data134132320493355258 1
 67C:\EBAC\M22\ebac_talks\node_modules\caniuse-lite\data\regions\TT.js134132320516300135 0
+50C:\EBAC\M22\ebac_talks\dist\ebac_logo.cec57e6d.svg134132669172006498 0
 88C:\EBAC\M22\ebac_talks\node_modules\@parcel\error-overlay\src\utils\isBultinErrorName.js134132320410427010 0
 64C:\EBAC\M22\ebac_talks\node_modules\weak-lru-cache\tests\test.js134132320382371310 0
 53C:\EBAC\M22\ebac_talks\node_modules\commander\typings134132320407882121 1
@@ -1064,6 +1065,7 @@
 64C:\EBAC\M22\ebac_talks\node_modules\sass\types\value\string.d.ts134132522266145809 0
 64C:\EBAC\M22\ebac_talks\node_modules\sass\types\logger\index.d.ts134132522265082788 0
 74C:\EBAC\M22\ebac_talks\node_modules\sass\types\logger\source_location.d.ts134132522266070441 0
+51C:\EBAC\M22\ebac_talks\dist\ebac_talks.37930097.css134132669174656391 0
 59C:\EBAC\M22\ebac_talks\node_modules\escalade\dist\index.mjs134132320376885144 0
 70C:\EBAC\M22\ebac_talks\node_modules\sass\types\logger\source_span.d.ts134132522266110389 0
 52C:\EBAC\M22\ebac_talks\node_modules\parcel\README.md134132320404084374 0
@@ -3391,6 +3393,7 @@
 65C:\EBAC\M22\ebac_talks\node_modules\@parcel\profiler\src\Trace.js134132320401006128 0
 66C:\EBAC\M22\ebac_talks\node_modules\@parcel\profiler\src\Tracer.js134132320403514696 0
 65C:\EBAC\M22\ebac_talks\node_modules\@parcel\profiler\lib\index.js134132320387513488 0
+55C:\EBAC\M22\ebac_talks\dist\ebac_talks.37930097.css.map134132669174786283 0
 76C:\EBAC\M22\ebac_talks\node_modules\@parcel\profiler\lib\SamplingProfiler.js134132320394609479 0
 67C:\EBAC\M22\ebac_talks\node_modules\@parcel\profiler\lib\Trace.d.ts134132320408611702 0
 63C:\EBAC\M22\ebac_talks\node_modules\@parcel\graph\src\BitSet.js134132320402735139 0
@@ -3398,6 +3401,7 @@
 68C:\EBAC\M22\ebac_talks\node_modules\@parcel\profiler\lib\Tracer.d.ts134132320409491198 0
 54C:\EBAC\M22\ebac_talks\node_modules\@parcel\plugin\lib134132320385654566 1
 58C:\EBAC\M22\ebac_talks\node_modules\@parcel\plugin\LICENSE134132320383750535 0
+50C:\EBAC\M22\ebac_talks\dist\ebac_talks.9a296aa5.js134132669174706330 0
 63C:\EBAC\M22\ebac_talks\node_modules\@parcel\plugin\package.json134132320390451836 0
 54C:\EBAC\M22\ebac_talks\node_modules\@parcel\plugin\src134132320392698906 1
 67C:\EBAC\M22\ebac_talks\node_modules\@parcel\plugin\src\PluginAPI.js134132320388023205 0
@@ -3716,4 +3720,7 @@
 51C:\EBAC\M22\ebac_talks\node_modules\.bin\semver.cmd134132320523683440 0
 48C:\EBAC\M22\ebac_talks\dist\backend.3c327b9e.png134132528753121358 0
 54C:\EBAC\M22\ebac_talks\dist\ebac_talks.59712999.js.map134132665113261980 0
-38C:\EBAC\M22\ebac_talks\dist\index.html134132665112742272 0
+54C:\EBAC\M22\ebac_talks\dist\ebac_talks.9a296aa5.js.map134132669174786283 0
+49C:\EBAC\M22\ebac_talks\dist\frontend.6a770e7f.png134132669172006498 0
+46C:\EBAC\M22\ebac_talks\dist\fundo.d0fbeb82.png134132669172006498 0
+38C:\EBAC\M22\ebac_talks\dist\index.html134132669174646370 0
